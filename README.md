@@ -1,2 +1,2 @@
-# sop_website
+# Slice of PI website
 
