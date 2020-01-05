@@ -1,7 +1,7 @@
-import React, {Component} from 'react'
+import React from 'react'
 import logo from '../assets/logo.png'
-class Home extends Component {
-    render(){
+
+function Home(){
         return(
             <section id="home" className="col-xs-12 row">
                 <div className="col-xs-3 col-sm-3">
@@ -13,7 +13,6 @@ class Home extends Component {
                 </div>
             </section>
         );
-    }
     }
 
 export default Home;
