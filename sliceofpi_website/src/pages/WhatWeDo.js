@@ -98,7 +98,6 @@ function WhatWeDo() {
             </div>
         </section>
     );
-
 }
 
 export default WhatWeDo;
