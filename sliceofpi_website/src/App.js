@@ -6,7 +6,7 @@ import Navbar from './components/navbar'
 /* Pages */
 import Home from './pages/Home'
 import WhatWeDo from './pages/WhatWeDo'
-
+import Work from './pages/Work'
 /* Style */
 import './css/header.sass'
 import './css/general.sass'
@@ -23,6 +23,7 @@ function App() {
       <Navbar />
       <Home />
       <WhatWeDo />
+      <Work />
     </div>
   );
 }
